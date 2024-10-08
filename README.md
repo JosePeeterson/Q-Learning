@@ -1,4 +1,4 @@
-This is part of a graded assessment in the module EE5904, Neural Networks during Masters in NUS.
+This is part of a graded assessment in the module EE5904, Neural Networks during Masters in NUS. For more details please see 'A0195021N.pdf'
 
 # Q-Learning for World Grid Navigation
 
